@@ -5,7 +5,7 @@
     - 🌐 Web Development: Building interactive websites or robust web applications.
     - 📱 App Development: Creating mobile applications to solve real-world problems.
     - 🧠 Problem Solving: Applying Data Structures and Algorithms to tackle interesting challenges.
-- 📫 How to reach me ...
+- 📫 How to reach me: 
         https://www.linkedin.com/in/binaydas
 
 - Skills:
