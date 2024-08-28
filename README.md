@@ -1,31 +1,24 @@
-Hi, I’m Binay
-<br>
-I am an undergraduate student majoring in Computer Science, passionate about exploring the vast world of technology. 
-My journey involves a blend of academic learning and hands-on experience with a strong focus on web.
-<br>
+# Hi, I'm Binay
 
-I’m interested in Web development, App development and Problem-solving with Data Structures and Algorithms (DSA).
-- I’m currently learning Full Stack Web Development.
-- I’m looking to collaborate on projects that involve:
-    - Web Development: Building interactive websites or robust web applications.
-    - App Development: Creating mobile applications to solve real-world problems.
-    - Problem Solving: Applying Data Structures and Algorithms to tackle interesting challenges.
-- Reach me at: 
-        https://www.linkedin.com/in/binaydas
+I am an undergraduate student majoring in Computer Science with a strong passion for technology. My journey blends academic learning with hands-on experience, focusing on web and app development. I am particularly interested in creating solutions that make a real-world impact.
 
-- Skills:
-    - Languages: Java, JavaScript, C, C++, Python
-    - Web Technologies: Node.js, Express, MongoDB, React
-    - Tools: Git, VS Code
-    - Problem Solving: Data Structures and Algorithms
+## Areas of Interest
+- **Web Development**: Building interactive websites and robust web applications.
+- **App Development**: Developing mobile applications to address real-world challenges.
+- **Problem Solving**: Leveraging Data Structures and Algorithms (DSA) to solve complex problems.
 
-<!---
-binay-das/binay-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- **Languages**: Java, JavaScript, C, C++, Python
+- **Web Technologies**: Node.js, Express, MongoDB, React
+- **Tools**: Git, VS Code
+- **Problem Solving**: Data Structures and Algorithms
 
-I am an undergraduate student majoring in Computer Science, passionate about exploring the vast world of technology. 
-My journey involves a blend of academic learning and hands-on experience with a strong focus on web and app development.
+## Current Focus
+I’m currently enhancing my skills in Full Stack Web Development, specifically in the MERN stack. I'm always eager to collaborate on projects that involve web or app development and problem-solving using DSA.
 
 
-Feel free to explore my repositories and provide feedback. Let's connect and learn together! 
+
+## Reach me at: 
+- LinkedIn: https://www.linkedin.com/in/binaydas
+
+I am always open to feedback and collaboration. Feel free to explore my repositories, and if you’re interested in working together, let's connect!
