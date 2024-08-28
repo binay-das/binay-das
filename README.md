@@ -1,5 +1,4 @@
 # Hi, I'm Binay
-
 I am an undergraduate student majoring in Computer Science with a strong passion for technology. My journey blends academic learning with hands-on experience, focusing on web and app development. I am particularly interested in creating solutions that make a real-world impact.
 
 ## Areas of Interest
@@ -15,8 +14,6 @@ I am an undergraduate student majoring in Computer Science with a strong passion
 
 ## Current Focus
 I’m currently enhancing my skills in Full Stack Web Development, specifically in the MERN stack. I'm always eager to collaborate on projects that involve web or app development and problem-solving using DSA.
-
-
 
 ## Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/binaydas
